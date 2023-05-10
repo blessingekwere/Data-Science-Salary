@@ -14,7 +14,9 @@ Overall, technology careers have undergone significant evolution over the years,
 ![](https://github.com/blessingekwere/Data-Science-Salary/blob/main/Into%20pics%203.jpg)
 ###### Photo Source: Google
 
-With the increasing demand for data science professionals in various industries, there is a need to understand the factors that impact salaries in this field. This includes analyzing data related to compensation for data scientists and related positions, such as location, level of experience, education, job title, and industry. By exploring this data, we aim to identify trends and patterns that can help both job seekers and employers make informed decisions about compensation packages and career planning. Furthermore, as the job market and skills required for data science evolve, it is crucial to track changes in salaries and understand how they may be impacted by these factors in the year 2023. Thus, the problem statement is to explore the data science salaries in 2023 dataset to gain insights into the factors that contribute to salary differences in this rapidly growing field. 
+With the increasing demand for data science professionals in various industries, there is a need to understand the factors that impact salaries in this field. This includes analyzing data related to compensation for data scientists and related positions, such as location, level of experience, education, job title, and industry. By exploring this data, we aim to identify trends and patterns that can help both job seekers and employers make informed decisions about compensation packages and career planning.
+
+Furthermore, as the job market and skills required for data science evolve, it is crucial to track changes in salaries and understand how they may be impacted by these factors in the year 2023. Thus, the problem statement is to explore the data science salaries in 2023 dataset to gain insights into the factors that contribute to salary differences in this rapidly growing field. 
 
 This project will answer questions such as 
 * What is the average data science salary in 2023? 
