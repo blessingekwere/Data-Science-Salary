@@ -167,7 +167,7 @@ This query showed that the number of staff by year kept increasing with the 2023
 ### Visualization
 ![](https://app.powerbi.com/view?r=eyJrIjoiMGI5YjljZjMtNDUyZS00ZWNmLWI1ODgtMGY1ZDY2NTU2NjRhIiwidCI6IjMwMDM2MmQ4LTZkNmItNGY5ZC04YjQwLTUwZjhkNjkxNmVjZCJ9)
 
-You can clich [here]() to interact with the dashboard
+You can click [here](https://app.powerbi.com/view?r=eyJrIjoiMGI5YjljZjMtNDUyZS00ZWNmLWI1ODgtMGY1ZDY2NTU2NjRhIiwidCI6IjMwMDM2MmQ4LTZkNmItNGY5ZC04YjQwLTUwZjhkNjkxNmVjZCJ9) to interact with the dashboard
 ###### Dashboard
 
 ### INSIGHTS
