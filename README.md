@@ -165,9 +165,9 @@ This query showed that the number of staff by year kept increasing with the 2023
 
 
 ### Visualization
-![](https://github.com/blessingekwere/Data-Science-Salary/blob/main/Data%20Science_page-0001%20-%20Copy.jpg)
+![](https://app.powerbi.com/view?r=eyJrIjoiMGI5YjljZjMtNDUyZS00ZWNmLWI1ODgtMGY1ZDY2NTU2NjRhIiwidCI6IjMwMDM2MmQ4LTZkNmItNGY5ZC04YjQwLTUwZjhkNjkxNmVjZCJ9)
 
-You can clich [here](https://app.powerbi.com/groups/me/reports/9f492943-3d5f-44fe-b282-92a9629d061e) to interact with the dashboard
+You can clich [here]() to interact with the dashboard
 ###### Dashboard
 
 ### INSIGHTS
